@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git 'https://github.com/lavanya.m/https://github.com/lavanyamadarasu-cloudside/test-repository.git'
+                git 'https://github.com/lavanyamadarasu-cloudside/test-repository.git'
             }
         }
 
